@@ -21,9 +21,9 @@ output: github_document
 Due to a lack of accessible mental health resources, rising cost of living with stagnant wages, and housing insecurity, homelessness is on the rise in the United States. As a group consisting of California and New York residents, homelessness as a public health issue is at the forefront. 
 
 # Intended Final Products 
-  - comprehensive website detailing the issue, key findings, and displays like maps, graphs, and reports. 
-  - screencast explaining our website and how to use it
-  - dashboard specifically looking at CA and NY homelessness predictors and associations
+  - Comprehensive website detailing the issue, key findings, and displays like maps, graphs, and reports. 
+  - Screencast explaining our website and how to use it
+  - Dashboard specifically looking at CA and NY homelessness predictors and associations
   
 # Anticipated Data Sources
  - HUD Exchange
